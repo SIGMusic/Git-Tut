@@ -1,4 +1,3 @@
-# git tut
-try to fork this repo and make a pull request!
+# Git tutorial
 
-hahahahahah
+This is a sample repository that you can fork, edit, and then make pull requests for
